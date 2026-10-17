@@ -2,7 +2,7 @@
 
 ## Meu palpite (de memória)
 
-> Jean: substitua esta linha pelo seu palpite sobre o que você alterou.
+Só acrescentei um comentário no arquivo check.js.
 
 ## Resumo do Claude
 
